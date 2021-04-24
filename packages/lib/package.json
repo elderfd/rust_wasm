@@ -1,0 +1,9 @@
+{
+    "name": "@elderfd/lib",
+    "version": "0.0.1",
+    "main": "pkg/lib.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "wasm-pack build --target bundler"
+    }
+}
